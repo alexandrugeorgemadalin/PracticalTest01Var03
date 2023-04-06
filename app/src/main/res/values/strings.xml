@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticalTest01Var03</string>
+    <string name="first" />
+    <string name="second" />
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="result" />
+    <string name="navigate_to_second_activity">NAVIGATE TO SECONDARY ACTIVITY</string>
+</resources>
