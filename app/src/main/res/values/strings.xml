@@ -6,4 +6,7 @@
     <string name="minus">-</string>
     <string name="result" />
     <string name="navigate_to_second_activity">NAVIGATE TO SECONDARY ACTIVITY</string>
+    <string name="sumResult" />
+    <string name="correct">CORRECT</string>
+    <string name="incorrect">INCORRECT</string>
 </resources>
